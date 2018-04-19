@@ -17,4 +17,11 @@ thisISADouble = 3.00000009991991 + 1.00002010010101
 -- True And False for Bools--
 
 -- Const value --
+perValue :: Int
+perValue = 10
+
+-- Char 'single quoted  characters'
+
+-- Tuples --
+
 
